@@ -36,6 +36,3 @@ Also, a mission is given tags automatically like medical, education, etc.
 
 ## Snaps
 
-<img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/home.png" style="height: 100px; width:100px;"/>
-<img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/create.png" style="height: 100px; width:100px;"/>
-<img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/donate.png" style="height: 100px; width:100px;"/>

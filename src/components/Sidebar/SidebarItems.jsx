@@ -40,7 +40,7 @@ const SidebarItems = ({ displaySidebar }) => {
           Connected to MetaMask Id:
         </p>
         <p style={{fontSize:10,}}>0x595f4030575aCCd032dAD62B9838911917a5D5fd</p>
-        <p style={{fontSize:12,}}>Current Balance: 0.4295 GoerliEth</p>
+        <p style={{fontSize:12,}}>Current Balance: 0.3916 MATIC</p>
     </div>
     </div>
   );
