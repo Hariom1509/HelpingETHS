@@ -25,6 +25,7 @@ Also, a mission is given tags automatically like medical, education, etc.
 * React
 * Solidity
 * Hardhat
+* IPFS
 * Material-UI
 * Thirdweb
 * Polygon
@@ -37,5 +38,6 @@ Also, a mission is given tags automatically like medical, education, etc.
 ## Snaps
 
 <img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/home.png" style="height: 500px; width:800px;"/>
+<img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/metamask.png" style="height: 500px; width:800px;"/>
 <img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/create.png" style="height: 500px; width:800px;"/>
 <img src="https://github.com/Hariom1509/HelpingETHS/blob/main/assets/donate.png" style="height: 500px; width:800px;"/>
