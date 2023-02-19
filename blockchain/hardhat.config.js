@@ -1,12 +1,15 @@
 /** @type import('hardhat/config').HardhatUserConfig */
+const dotenv = require("dotenv");
+dotenv.config({path: __dirname + '/.env'});
+const { URL, ACCOUNT_PRIVATE_KEY } = process.env;
 module.exports = {
-  defaultNetwork: "matic",
+  defaultNetwork: "polygon",
   networks: {
     hardhat: {
     },
-    matic: {
-      url: 'https://polygon-mainnet.g.alchemy.com/v2/nqBl6KQB2xMolO79psPuCgE7RFXOA31u',
-      accounts: ['6ceec19ba7d6b0436ac30675c0ba4003e0d048653dc24ce472541ad968673157'],
+    polygon: {
+      url: URL,
+      accounts: [`0x${ACCOUNT_PRIVATE_KEY}`],
     }
   },
   solidity: {
